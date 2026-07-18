@@ -1,0 +1,16 @@
+# Data Processing & Graph
+pandas
+networkx
+scipy
+
+# Agentic AI & Orchestration
+langgraph
+langchain-google-genai
+python-dotenv
+
+# Search Infrastructure
+elasticsearch
+
+# Frontend & Visualization
+streamlit
+matplotlib
