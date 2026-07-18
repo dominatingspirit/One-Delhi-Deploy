@@ -7,7 +7,7 @@ scipy
 langgraph
 langchain-google-genai
 python-dotenv
-
+langchain-openai
 # Search Infrastructure
 elasticsearch
 
